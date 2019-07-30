@@ -1,0 +1,33 @@
+# Setup for conference documentation
+
+conference:
+  name: "ACH 2019: XXXX"
+  hashtag: "#ach2019"
+  description: "xxxx"
+session-types: ["paper-sessions", "workshops"]
+
+sessions:
+  paper-sessions:
+    - title: "XXXXXX"
+      hashtag: "#a1"
+      description: ""
+      presenters:
+        - name: "XXX"
+          title: "XXX"
+          website: "XXX"
+          twitter: "XXX"
+          github: "XXX"
+        - name: "XXX"
+          title: "XXX"
+          website: "XXX"
+          twitter: "XXX"
+          github: "XXX"
+        - name: "XXX"
+          title: "XXX"
+          website: "XXX"
+          twitter: "XXX"
+          github: "XXX"
+  workshops:
+    - title: "XXXXXX"
+      hashtag: "#w1"
+      description: ""
